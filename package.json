@@ -25,7 +25,7 @@
   "devDependencies": {
     "@jupl/tslint-config": "^0.5.1",
     "@storybook/addon-actions": "^4.0.1",
-    "@storybook/react": "^3.4.6",
+    "@storybook/react": "^4.0.1",
     "@types/enzyme": "^3.1.10",
     "@types/enzyme-adapter-react-16": "^1.0.2",
     "@types/globule": "^1.1.0",
